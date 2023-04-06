@@ -1,0 +1,4 @@
+Estudiante;08/12/2003;192929;Cesar;Sala;Santa Elena-Buga;1828342-Oficina
+Empleado;17/01/1983;4675582;Armando;Casas Rojas;Villacolombia-Cali,El vallado-Cali,Valle del lili-Cali;4864312-Movil,1234567-Movil,4869503-Oficina
+Estudiante;15/12/2021;1003948521;Cindi;Gutierrez;Melendez-Cali;4856271-Familiar,2134567-Casa
+Empleado;17/03/1969;134940;Elver;Gonzales;Olimpica-Cali,San Bosco-Cali,El Dorado-Cali;4864313-Movil,3732254-Familiar,4395860-Oficina
